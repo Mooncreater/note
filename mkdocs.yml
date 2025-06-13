@@ -1,8 +1,8 @@
-site_name: 图灵班学习指南
-site_url: https://ZJU-Turing.github.io/TuringCourses/
-site_description: 图灵班学习指南
+site_name: 蒸鱼的笔记
+site_url: https://Mooncreater.github.io/note/
+site_description: Note
 repo_name: ZJU-Turing/TuringCourses
-repo_url: https://github.com/ZJU-Turing/TuringCourses/
+repo_url: https://github.com/Mooncreater/note/
 edit_uri: tree/master/docs
 copyright: Copyright &copy; 2023-2024 浙江大学图灵班
 
